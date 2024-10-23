@@ -1,10 +1,7 @@
 ## Hello! 👋
 💻 I'm an AI master's student with a strong interest in Natural Language Processing, Large Language Models, and multi-modal learning.
-
 📊 I work at CargoProbe as a data analyst and machine learning engineer, applying AI to tackle impactful challenges.
-
 🔍 I’m looking for exciting AI projects that help me explore new concepts and sharpen my skills.
-
 ✉️ Feel free to reach out at: max.bosch2002@gmail.com
 
 <!--
